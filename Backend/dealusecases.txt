@@ -1,0 +1,7 @@
+•	Edit person => done
+•	When deal changes from one stage to another => done
+•	Edit expected close date
+•	Add or remove participants => done
+•	Revenue-  1.Add subscription, 2.Add Payment schedule
+•	Status-   1.Won,2.Lost,2.Reopen
+•   New deal

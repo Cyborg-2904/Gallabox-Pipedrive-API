@@ -1,0 +1,11 @@
+•	create activity
+•	change subject=>done
+•	change type?=>done 
+•	change deal
+•	participant Edit
+•	head phone number change
+•	due date or time change
+•	done Status=>done
+•	duration change
+•	busy state
+•	location    
